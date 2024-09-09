@@ -1,4 +1,3 @@
-# print("Please define your VGG19 in this file.")
 import torch
 import torch.nn as nn
 import torch.optim as optim
